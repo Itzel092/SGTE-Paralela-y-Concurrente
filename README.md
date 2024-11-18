@@ -1,0 +1,2 @@
+# SGTE-Paralela-y-Concurrente
+SISTEMA DE GESTION DE TARJETAS ELECTRONICAS CON "ReentrantLock"
